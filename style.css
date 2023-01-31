@@ -1,0 +1,122 @@
+
+.image1{
+    background-image: url(./image1.png);
+    width:100%;
+    height:100vh;
+}
+.image2{
+    background-image: url(./image2.png);
+    width:100%;
+    height:100vh; 
+}
+.image3{
+    background-image: url(./image3.png);
+    width:100%;
+    height:100vh;
+}
+.text1{
+    background-color: black;
+    position: absolute;
+    padding:12px;
+    top:50%;
+    left:40%;
+    border-radius: 5px;
+    text-align: center;
+}
+.text2{
+    background-color: black;
+    position: absolute;
+    padding:12px;
+    top:150%;
+    left:40%;
+    border-radius: 5px;
+    text-align: center;
+}
+.text3{
+    background-color: black;
+    position: absolute;
+    padding:12px;
+    top:265%;
+    left:40%;
+    border-radius: 5px;
+    text-align: center;
+}
+.image1,.image2,.image3{
+    background-attachment: fixed;
+}
+.about{
+    font-size: 30px;
+    text-transform: uppercase;
+    color:white;
+    background-color: black;
+}
+.about12{
+    font-size: 30px;
+    text-transform: uppercase;
+    color:white;
+    background-color: black;
+}
+.about31{
+    font-size: 30px;
+    text-transform: uppercase;
+    color:white;
+    background-color: black;
+}
+.about13{
+    position:absolute;
+    text-align: justify;
+    overflow:hidden;
+    margin-right: 60px;
+}
+.Description1{
+    background-color: black;
+    width:92%;
+  height:12vh;
+    color:white;
+    position: absolute;
+    text-align: center;
+    top: 80%;
+    padding:50px;
+}
+.Description2{
+    background-color: black;
+    width:92%;
+  height:12vh;
+    color:white;
+    position: absolute;
+    text-align: center;
+    top: 180%;
+    padding:50px;
+}
+.Description3{
+    background-color: black;
+    width:92%;
+  height:15vh;
+    color:white;
+    position: absolute;
+    text-align: center;
+    top: 300%;
+    padding:50px;
+}
+.about1{
+    position:absolute;
+    text-align: justify;
+    overflow:hidden;
+    margin-right: 60px;
+    /* margin */
+}
+/* .Description2{
+    left: 45%;
+    color: red;
+    position: absolute;
+    top: 80%;
+}
+
+.Description3{
+    left: 45%;
+    color: red;
+    position: absolute;
+    top: 80%;
+} */
+
+
